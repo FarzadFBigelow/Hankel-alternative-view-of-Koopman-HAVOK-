@@ -1,1 +1,1 @@
-# Hankel-alternative-view-of-Koopman-HAVOK-
+# Hankel alternative view of Koopman (HAVOK)
